@@ -15,7 +15,7 @@ public class UserService {
 	
 	public UserService(UserRepository userRepository, UserProducer userProducer) {
 		this.userRepository = userRepository;
-		this.UserProducer = userProducer;
+		this.userProducer = userProducer;
 	}
 	
 	@Transactional
