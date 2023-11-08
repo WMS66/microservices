@@ -39,3 +39,7 @@ target
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+
+email/src/main/resources/application.properties
+
+user/src/main/resources/application.properties
