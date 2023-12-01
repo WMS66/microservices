@@ -1,6 +1,6 @@
 # microservices
 
-## Project in Development
+## Project in Development - Studying microservices
 
 Creates two microservices, email and user and their classes.
 
